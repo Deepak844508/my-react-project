@@ -1,0 +1,35 @@
+{
+  "name": "my-react-project",
+  "version": "1.0.0",
+  "description": "This is my first react project",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Deepak844508/my-react-project)"
+  },
+  "keywords": [
+    "react",
+    "namestey",
+    "react",
+    "deepak",
+    "kumar"
+  ],
+  "author": "Deepak",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browsersList":[
+    "last 2 versions"
+  ]
+}
